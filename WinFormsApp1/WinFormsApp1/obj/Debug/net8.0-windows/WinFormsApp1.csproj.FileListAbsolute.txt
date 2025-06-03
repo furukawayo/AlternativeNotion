@@ -1,0 +1,52 @@
+C:\Users\81806\Desktop\新しいフォルダー\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\81806\Desktop\新しいフォルダー\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\81806\Desktop\新しいフォルダー\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\81806\Desktop\新しいフォルダー\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\81806\Desktop\新しいフォルダー\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\81806\Desktop\新しいフォルダー\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.User.resources
+C:\Users\81806\Desktop\新しいフォルダー\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\81806\Desktop\新しいフォルダー\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\81806\Desktop\新しいフォルダー\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\81806\Desktop\新しいフォルダー\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\81806\Desktop\新しいフォルダー\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\81806\Desktop\新しいフォルダー\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\81806\Desktop\新しいフォルダー\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\81806\Desktop\新しいフォルダー\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\81806\Desktop\新しいフォルダー\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\81806\Desktop\新しいフォルダー\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\81806\Desktop\新しいフォルダー\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.二つ目のフォーム.resources
+C:\Users\81806\Desktop\新しいフォルダー\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Menu.resources
+C:\Users\古川　嘉都\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\古川　嘉都\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\古川　嘉都\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\古川　嘉都\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\古川　嘉都\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\古川　嘉都\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.User.resources
+C:\Users\古川　嘉都\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Menu.resources
+C:\Users\古川　嘉都\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.二つ目のフォーム.resources
+C:\Users\古川　嘉都\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\古川　嘉都\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\古川　嘉都\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\古川　嘉都\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\古川　嘉都\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\古川　嘉都\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\古川　嘉都\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\古川　嘉都\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\古川　嘉都\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\古川　嘉都\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\古川　嘉都\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\zxing.dll
+C:\Users\古川　嘉都\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\古川　嘉都\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\古川　嘉都\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\古川　嘉都\code\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\古川　嘉都\code\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.User.resources
+C:\Users\古川　嘉都\code\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Menu.resources
+C:\Users\古川　嘉都\code\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.二つ目のフォーム.resources
+C:\Users\古川　嘉都\code\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\古川　嘉都\code\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\古川　嘉都\code\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\古川　嘉都\code\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\古川　嘉都\code\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\古川　嘉都\code\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\古川　嘉都\code\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\古川　嘉都\code\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
